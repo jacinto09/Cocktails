@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d70297ea00be6bc3ff0977f6e4afd59b",
+    "revision": "9c3c789772f424df5089896021071831",
     "url": "/jacinto09/cocktails.git/index.html"
   },
   {
